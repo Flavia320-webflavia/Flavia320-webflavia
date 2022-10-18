@@ -1,6 +1,6 @@
 ## Olá! Eu sou Flávia Gonçalves 👋
 
-<li>Estudando Salesforce</li>
+<li>Salesforce Developer</li>
 <li>Pronous ela/dela </li>
 
 <background color>
